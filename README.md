@@ -1,0 +1,4 @@
+# Pokemon Essentials Translation
+
+
+
